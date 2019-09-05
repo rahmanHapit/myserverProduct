@@ -9,9 +9,9 @@
     "name": "typicode"
   },  
   "item": [
-    {"link":1, "name":"test", "summary":"sumary test 1", "year":"2019", "country":"us", "price":"1000", "description":"desc 1"},
-    {"link":2, "name":"test 1", "summary":"sumary test 2", "year":"2020", "country":"uk", "price":"2000", "description":"desc 2"},
-    {"link":3, "name":"test 2", "summary":"sumary test 3", "year":"2021", "country":"ID", "price":"3000", "description":"desc 3"}
+    {"link":1, "name":"test", "summary":"sumary test 1.1", "year":"2019", "country":"us", "price":"1000", "description":"desc 1"},
+    {"link":2, "name":"test 1", "summary":"sumary test 2.1", "year":"2020", "country":"uk", "price":"2000", "description":"desc 2"},
+    {"link":3, "name":"test 2", "summary":"sumary test 3.2", "year":"2021", "country":"ID", "price":"3000", "description":"desc 3"}
     
   ]
 }
